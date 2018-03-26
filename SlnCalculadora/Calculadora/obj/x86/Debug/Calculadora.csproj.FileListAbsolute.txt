@@ -1,0 +1,29 @@
+C:\Projetos\SlnCalculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Projetos\SlnCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Projetos\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.frmSobre.resources
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\bin\Debug\Calculadora.exe
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.frmSobre.resources
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\senac documentos\Tiosso\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\bin\Debug\Calculadora.exe
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\bin\Debug\Calculadora.pdb
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.Form1.resources
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.frmSobre.resources
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+D:\Documentos\senac documentos\Desenvolvimento de Sistema\Tiosso-C#\Projeto\SlnCalculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
